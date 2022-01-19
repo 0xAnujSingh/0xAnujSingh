@@ -16,15 +16,15 @@ For planning, testing, and documenting my APIs, I've used Postman. And used GitH
 |Front-End|HTML, CSS, Bootstrap|
 |Tools|Heroku, GitHub, Postman, VSCode|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnujSingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnujSingh&layout=compact)](https://resume.anuj.works)
 
 ## Projects
 
 ### Food Menu Application
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAnujSingh&repo=food-menu)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAnujSingh&repo=food-menu)](https://food.anuj.works)
 
 ### Todo List API
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAnujSingh&repo=todo-list)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAnujSingh&repo=todo-list)](https://todo.anuj.works)
 
 <!--
 **0xAnujSingh/0xAnujSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
