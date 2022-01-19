@@ -21,10 +21,7 @@ For planning, testing, and documenting my APIs, I've used Postman. And used GitH
 ## Projects
 
 ### Food Menu Application
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAnujSingh&repo=food-menu)](https://food.anuj.works)
-
 ### Todo List API
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAnujSingh&repo=todo-list)](https://todo.anuj.works)
 
 <!--
 **0xAnujSingh/0xAnujSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
