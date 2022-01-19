@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Anuj. I've been learning to build web applications. I started with building REST APIs and then moved on to build a supporting front-end for one of the APIs.
+I'm Anuj. I've been learning to build web applications. I started with building basic CLI applications, then to building REST APIs, and then moved on to build a supporting front-end for one of the APIs.
 
-*I'm currently looking for an Internship as a Full Stack Developer or Backend Developer. I like building products, and want to work with a Team to build  products that create impact in people's lives.*
+I'm currently looking for an Internship as a Full Stack Developer or Backend Developer. I like building products and want to work with a team to build products that create an impact on people's lives.
 
 In my journey so far, I've learned to use Python and JavaScript for basic programming. I've built REST APIs using Flask (A Python Framework), and with that, I used SQLite as Database and Heroku for hosting my projects.
 
